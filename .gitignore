@@ -1,0 +1,16 @@
+# build files
+*.o
+*.out
+*.a
+
+# binaries
+spaceship
+
+# AppImage tool
+appimagetool-x86_64.AppImage
+
+# temp
+AppDir/
+
+# system
+.DS_Store
