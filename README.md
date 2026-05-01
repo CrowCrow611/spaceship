@@ -31,7 +31,7 @@ cd spaceship
 
 Note: must be run from the project directory (uses relative asset paths).
 
-## Features
+# Features
 
 - OpenGL rendering
 - LS32 CPU emulator
