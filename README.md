@@ -43,13 +43,17 @@ To use the ingame cpu, please build it youself, and then mess around the program
 
 For example:
 
-```
+```bash
 load ls32/programs/test.ls
 ```
 then:
-```
+
+```bash
 run
 ```
-```
+
+then:
+
+```bash
 r1
 ```
