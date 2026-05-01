@@ -38,5 +38,5 @@ Note: must be run from the project directory (uses relative asset paths).
 - assembler + disassembler
 - in-game terminal
 
-##Note
+# Note
 To use the ingame cpu, please build it youself, and then mess around the programs, ls32/programs/test.ls
