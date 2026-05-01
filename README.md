@@ -40,3 +40,15 @@ Note: must be run from the project directory (uses relative asset paths).
 
 # Note
 To use the ingame cpu, please build it youself, and then mess around the programs, ls32/programs/test.ls
+For example:
+
+```
+load ls32/programs/test.ls
+```
+then:
+```
+run
+```
+```
+r1
+```
